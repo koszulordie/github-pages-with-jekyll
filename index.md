@@ -1,3 +1,3 @@
-# Welcome to my blog
+# This is a test blog
 
-I'm glad you are here. I plan to talk about ...
+Live long and prosper
